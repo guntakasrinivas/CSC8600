@@ -66,6 +66,7 @@ def file(path):
                                 # print("|||||||||||||||||||||||||||||||||||||||",ent,'||||||||||||||||||||||')
                                     # print(metadata)
 
+
                                     print(metadata['streaminfo'].bitrate)
                                     print(metadata['streaminfo'].bitrate_mode)
                                     print(metadata['streaminfo'].channel_mode)
