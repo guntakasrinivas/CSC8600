@@ -105,7 +105,7 @@ def extractmetadata(filepath):
         print("Errrorr----------------")
 
 # take input from user
-filepath = input("Enter Your file path \n")
+filepath = input("Please enter Your file path \n")
 try:
     # call file funcation with argument as filepath
     file(filepath)
