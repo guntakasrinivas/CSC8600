@@ -1,0 +1,19 @@
+pre-requirement for run CLI and GUI ->
+	install python3 , tkinter and following file 
+
+download the file from here 
+
+if you use ubuntu then download link
+https://sno.phy.queensu.ca/~phil/exiftool/Image-ExifTool-11.45.tar.gz
+
+
+
+How to run CLI and GUI:-
+	after download zip extract and past where CLI.py file and GUI.py exist
+    Navigate the commandline to where the CLI.py and GUI.py exist
+
+Use the commands 
+
+	1) python3 CLI.py or python CLI.py
+	2) python3 GUI.py or python GUI.py
+
